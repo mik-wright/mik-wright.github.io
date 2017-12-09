@@ -1,3 +1,4 @@
+---
 title: "People Management"
 bg: turquoise
 color: white
