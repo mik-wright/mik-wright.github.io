@@ -1,6 +1,6 @@
 title: "home"
-bg: white
-color: black
+bg: purple
+color: white
 style: center
 ---
 
