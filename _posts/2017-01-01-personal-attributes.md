@@ -1,3 +1,4 @@
+---
 title: "Personal attributes"
 bg: white
 color: black
@@ -15,13 +16,3 @@ style: center
 # single-page jekyll theme
 {: .text-purple}
 Display resilience and courage
-
-…it's focused on delivering information quickly, easily, configurably, and stylishly!
-
-Want to make a single-page site to show off something cool? Go [fork me on github!](https://github.com/t413/SinglePaged)
-
-<span id="forkongithub">
-  <a href="{{ site.source_link }}" class="bg-blue">
-    Fork me on GitHub
-  </a>
-</span>
