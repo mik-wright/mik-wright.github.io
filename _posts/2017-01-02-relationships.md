@@ -1,3 +1,4 @@
+---
 title: "home"
 bg: blue
 color: white
