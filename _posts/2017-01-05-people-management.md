@@ -1,6 +1,6 @@
-title: "home"
-bg: white
-color: black
+title: "People Management"
+bg: turquoise
+color: white
 style: center
 ---
 
