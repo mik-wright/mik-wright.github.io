@@ -1,7 +1,7 @@
 ---
 title: "Education"
-bg: white
-color: black
+bg: orange
+color: white
 style: left
 ---
 
