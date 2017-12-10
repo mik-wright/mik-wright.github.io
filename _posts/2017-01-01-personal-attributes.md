@@ -35,32 +35,6 @@ style: left
 - Attained tertiary qualifications in public administration, workplace inspection and investigation while working full-time
 - Coordinated the revision and implementation of standard operating procedures for the entire naval fleet of 5000 personnel
 
-### Obtained the following qualifications while working full time:
-
-- Master of Public Administration (with merit)
-- Diploma of Leadership and Management
-- Diploma of Government (Management)
-- Diploma of Business (Frontline Management)
-- Diploma of Government (Workplace Inspection)
-- Diploma of Government (Investigations)
-- Bachelor of Arts (Information Systems)
-- Certificate IV in Training and Education
-- Advanced Diploma of Maritime Studies
-
-### Undertook the following courses:
-
-- Social Media Marketing: Twitter, Facebook and blogs
-- Project Management Fundamentals
-- Manager as a coach
-- Aboriginal cultural awareness training
-- Understanding Government
-- Bullying awareness training
-- Equity and Diversity training
-- Alcohol and Other Drugs awareness training
-- Writing Sound Briefs
-- Due diligence awareness training
-- Administrative Power and the Law
-
 ***
 
 ## Value diversity
