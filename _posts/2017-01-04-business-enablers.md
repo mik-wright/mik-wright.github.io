@@ -13,12 +13,18 @@ style: center
 ## Finance
 - Efficiently managed budgets of over $2 million
 
+***
+
 ## Technology
 - Led the adoption of electronic consultative packages
 - Participated in scoping for multiple IT systems
 
+***
+
 ## Procurement and contract management
 - Maintained effective working relationship with contracted service provider - Achieved government mandated number of patrol days despite engineering faults
+
+***
 
 ## Project management
 - Led the provision of self-insurer audit services for business covering 60 per cent of NSW workers
