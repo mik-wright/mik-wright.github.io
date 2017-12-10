@@ -2,7 +2,7 @@
 title: "Personal attributes"
 bg: white
 color: black
-style: center
+style: left
 ---
 
 <span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
@@ -17,6 +17,8 @@ style: center
 - Exercised novel legislative options to increase industry compliance
 - Developed governance review schedule to manage corporate risk
 
+***
+
 ## Act with integrity
 - Finalist in three categories including Leadership Excellence for Department of Finance Services and Innovation
 - Managed the development of house folder notes for a number of sensitive issues
@@ -24,6 +26,8 @@ style: center
 - Highly commended in “people's choice” leadership award
 - Nominated for CEO’s leadership award
 - Received Team Manager’s leadership award
+
+***
 
 ## Manage self
 - Produced a new electronic enforcement notice in response to an urgent need due to changed law
@@ -56,6 +60,8 @@ style: center
 - Writing Sound Briefs
 - Due diligence awareness training
 - Administrative Power and the Law
+
+***
 
 ## Value diversity
 - Led the reinvigoration of the corporate Multicultural Plan
