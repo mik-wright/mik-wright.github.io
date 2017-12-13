@@ -11,6 +11,8 @@ style: left
 </span>
 # Relationships
 
+![](/crazylikea.github.io/images/relationships.png)
+
 ## Communicate effectively
 - Answered many urgent requests for information and advice from executives and other business units
 - Provided high quality briefs to senior executives, used to inform decisions in complex legal issues
