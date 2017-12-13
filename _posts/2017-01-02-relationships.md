@@ -2,7 +2,7 @@
 title: "Relationships"
 bg: blue
 color: white
-style: left
+style: centre
 ---
 
 <!---<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
