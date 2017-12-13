@@ -5,13 +5,14 @@ color: white
 style: left
 ---
 
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
+<!---<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
   <i class="fa fa-circle fa-stack-2x text-white"></i>
   <i class="fa fa-bicycle fa-stack-1x text-orange"></i>
 </span>
-# Relationships
+--->
 
 ![](https://crazylikea.github.io/img/relationships.png)
+# Relationships
 
 ## Communicate effectively
 - Answered many urgent requests for information and advice from executives and other business units
