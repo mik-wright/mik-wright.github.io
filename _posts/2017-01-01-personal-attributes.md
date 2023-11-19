@@ -1,42 +1,33 @@
 ---
-title: "Personal attributes"
+title: "Careeer summary"
 bg: white
 color: black
 style: left
 ---
+# Career summary
 
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
-  <i class="fa fa-circle fa-stack-2x text-white"></i>
-  <i class="fa fa-bicycle fa-stack-1x text-orange"></i>
-</span>
+My most recent role is leading privacy management for the Department of Customer Service, working with stakeholders to deliver good governance and compliance with regulatory requirements, including mandated investigation timeframes. I have worked in operational, policy and specialist teams and have a strong technical background with extensive leadership experience and qualifications, including in investigations and public administration. A key feature of my leadership is stakeholder collaboration to deliver results based on evidence. I am a respected leader with a reputation for considering the needs of our customers and challenging the way we work to establish frameworks for improvement of service delivery.
 
-# Personal attributes
+# Employment history
 
-## Display resilience and courage
-- Responded to many urgent ministerial requests due to issues raised by members of the public
-- Exercised novel legislative options to increase industry compliance
-- Developed governance review schedule to manage corporate risk
+## Manager Governance
 
-***
+## Manager Major Hazard Facilities
 
-## Act with integrity
-- Finalist in three categories including Leadership Excellence for Department of Finance Services and Innovation
-- Managed the development of house folder notes for a number of sensitive issues
-- Represented the organisation in high level forums
-- Highly commended in “people's choice” leadership award
-- Nominated for CEO’s leadership award
-- Received Team Manager’s leadership award
+## Chair, Inspector Practice Group
 
-***
+## Manager Performance Reporting and Projects
 
-## Manage self
-- Produced a new electronic enforcement notice in response to an urgent need due to changed law
-- Developed and communicated new procedure for accessing telecommunication information
-- Attained tertiary qualifications in public administration, workplace inspection and investigation while working full-time
-- Coordinated the revision and implementation of standard operating procedures for the entire naval fleet of 5000 personnel
+## Team Coordinator Third Party Verification and Self-insurer Auditing
 
-***
+## Director Construction & Asbestos Services
 
-## Value diversity
-- Led the reinvigoration of the corporate Multicultural Plan
-- Led diverse teams which included experts in engineering, logistics and health
+## Team Manager Planning, Evaluation Governance and Systems
+
+## Team Coordinator Investigations
+
+## Inspector
+
+## Maritime Warfare Officer
+
+# Education
