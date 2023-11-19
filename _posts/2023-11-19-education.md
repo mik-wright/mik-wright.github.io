@@ -5,7 +5,7 @@ color: black
 style: left
 ---
 
-# Education & professional membership
+# Education
 
 ## Qualifications
 - Master of Public Administration (with merit)
