@@ -29,5 +29,3 @@ My most recent role is leading privacy management for the Department of Customer
 - Inspector
 
 - Maritime Warfare Officer
-
-# Education
