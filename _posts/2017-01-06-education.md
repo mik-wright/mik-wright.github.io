@@ -30,6 +30,3 @@ style: left
 - Writing Sound Briefs
 - Due diligence awareness training
 - Administrative Power and the Law
-
-## Professional membership
-- Institute of Public Administration Australia - NSW
